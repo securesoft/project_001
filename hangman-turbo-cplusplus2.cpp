@@ -30,7 +30,7 @@ int main ()
 		"indonesia",
 		"srilanka",
 		"Bangladesh",
-		"Singapur"
+		"Singapoor"
 	};
 
 	//choose and copy a word from array of words randomly
