@@ -29,7 +29,8 @@ int main ()
 		"oman",
 		"indonesia",
 		"srilanka",
-		"Bangladesh"
+		"Bangladesh",
+		"Singapur"
 	};
 
 	//choose and copy a word from array of words randomly
